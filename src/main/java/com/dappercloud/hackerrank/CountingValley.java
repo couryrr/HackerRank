@@ -24,14 +24,15 @@ package com.dappercloud.hackerrank;
 public class CountingValley {
 
 	/**
+	 *
+	 * The first line contains an integer n, the number of steps in Gary's hike. The
+	 * second line contains a single string s, of n characters that describe his
+	 * path.
 	 * 
 	 * @param n
 	 * @param s
-	 * @return
-	 * 
-	 * @implNote The first line contains an integer n, the number of steps in Gary's
-	 *           hike. The second line contains a single string s, of n characters that
-	 *           describe his path.
+	 * @return number of valleys
+	 *
 	 */
 
 	public int count(int n, String s) {
